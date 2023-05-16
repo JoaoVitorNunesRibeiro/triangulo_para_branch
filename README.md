@@ -14,7 +14,7 @@
 ...
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+O programa tem como objetivo calcular as medidas dos lados de dois triângulos X e Y, mostrar o resultado de cada um desses triângulos e mostrar qual dos dois possui a maior área.
 
 ## Como rodar a aplicação 
 Rode os programas no "Programiz" e em seguida de as informações que o programa pede.
