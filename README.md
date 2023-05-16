@@ -21,10 +21,6 @@
 
 🔹 Novas Recursos
 
-🔹 Resolvendo problemas
-
-🔹 Recursos inseridos 
-
 🔹 Desenvolvedores/Contribuintes
 
 🔹 Informações Extras
@@ -71,20 +67,8 @@ XML
 ...
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 
-## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
-
-## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
-
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
-
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+João Vitor
 
 ## Licença
 The MIT License (MIT)
